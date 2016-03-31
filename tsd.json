@@ -1,0 +1,60 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "moment/moment.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "bootstrap/bootstrap.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "knockout/knockout.d.ts": {
+      "commit": "99c4fb76b5d941939ba53e61d0daee4bd74f150f"
+    },
+    "ng-cordova/toast.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "postal/postal.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "99c4fb76b5d941939ba53e61d0daee4bd74f150f"
+    },
+    "toastr/toastr.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "microsoft-ajax/microsoft.ajax.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "sharepoint/SharePoint.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "requirejs/require.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "knockout.mapping/knockout.mapping.d.ts": {
+      "commit": "85af69c91599a6c904618545f0613970e1ff3f64"
+    },
+    "knockout.es5/knockout.es5.d.ts": {
+      "commit": "99c4fb76b5d941939ba53e61d0daee4bd74f150f"
+    },
+    "jqueryui/jqueryui.d.ts": {
+      "commit": "99c4fb76b5d941939ba53e61d0daee4bd74f150f"
+    },
+    "modernizr/modernizr.d.ts": {
+      "commit": "bd269cad4cb2b495f940c7b6afc5825d568029be"
+    }
+  }
+}

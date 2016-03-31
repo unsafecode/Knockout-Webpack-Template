@@ -1,0 +1,12 @@
+﻿{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "declaration": false,
+        "module": "amd",
+        "sourceMap": true,
+        "target": "es5",
+        "moduleResolution": "classic"
+    },
+    "exclude": [ "jspm_packages", "node_modules"]
+}
